@@ -1,0 +1,1 @@
+python efficient_hf_dataset_converter.py output_dir=datasets/kazakh path=farabi-lab/kazakh-stt split=val use_auth_token=false streaming=false num_proc=1 ensure_ascii=true
