@@ -6,7 +6,15 @@ It uses ASR, NLP/NLU, TTS, and a secure backend integration to allow customers t
 🚀 Features
 🎤 Voice Interaction
 
-Users can speak freely and naturally:
+Forte Voice supports three languages:
+
+Kazakh
+
+Russian
+
+English
+
+Users can speak freely and naturally in any of these languages:
 
 “What’s my card balance?”
 
@@ -18,7 +26,7 @@ Users can speak freely and naturally:
 
 “Where is the nearest ATM?”
 
-The assistant understands conversational, non-scripted speech.
+The assistant understands conversational, non-scripted, multilingual speech.
 
 🧠 Intent Understanding (NLP/NLU)
 
@@ -38,7 +46,7 @@ Assistance flows
 
 🔊 Text-to-Speech (TTS)
 
-Generates natural, human-like voice responses for smooth dialogues.
+Generates natural, human-like voice responses for smooth multilingual dialogue.
 
 🔌 Secure Integration with ForteBank Backend
 
@@ -69,78 +77,3 @@ ForteBank Backend
     │
     ▼
 [  TTS  ]  Speech Output
-
-🎯 MVP Scope
-
-Voice navigation
-
-FAQ answers
-
-Basic banking product information
-
-ASR + NLP + TTS pipeline
-
-App guidance and help flows
-
-🛣 Roadmap
-
-Voice-based transfers & payments
-
-Transactional operations
-
-Personalization features
-
-Multi-turn conversational engine
-
-On-device optimization
-
-A/B testing and pilot rollout
-
-🗣 Example User Commands
-
-“Top up my mobile balance”
-
-“What is Visa Platinum?”
-
-“Show my last 5 transactions”
-
-“Open a deposit”
-
-“Help me find where the cashback section is”
-
-🔐 Security
-
-API Gateway access control
-
-Enforced permissions
-
-Financial-grade data protection
-
-Centralized logging and monitoring
-
-No direct access to core systems
-
-🤝 Project Team & Ownership
-
-Developed by the ForteBank product and engineering teams:
-
-NLP/ASR engineers
-
-Mobile developers
-
-Backend engineers
-
-QA specialists
-
-UX/UI designers
-
-Product, Data & Innovation team
-
-This is a proprietary ForteBank project. External distribution or reuse is restricted.
-
-If you want, I can also:
-
-✅ create a professional GitHub banner
-✅ design a diagram in mermaid
-✅ generate an "About the Architecture" section
-✅ write a pitch for investors or management
